@@ -1,2 +1,2 @@
-Git is a nersion control system.
+Git is a distributed nersion control system.
 Git is free software.
